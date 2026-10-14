@@ -1,0 +1,23 @@
+{
+  "key.categories.glorykill": "Glory Kill",
+  "key.glorykill.execute": "Execute (Glory Kill)",
+  "hud.glorykill.prompt": "[%s] GLORY KILL",
+  "message.glorykill.no_target": "No weakened enemy in reach",
+  "message.glorykill.fail.disabled": "Glory Kills are disabled",
+  "message.glorykill.fail.invalid_executor": "You cannot execute right now",
+  "message.glorykill.fail.no_target": "No target",
+  "message.glorykill.fail.not_enemy": "Only hostile mobs can be executed",
+  "message.glorykill.fail.disabled_type": "Glory Kills are disabled for this mob",
+  "message.glorykill.fail.no_glory_kill": "This mob has no Glory Kill yet",
+  "message.glorykill.fail.not_weak": "Weaken it first",
+  "message.glorykill.fail.too_far": "Too far away",
+  "message.glorykill.fail.not_looking": "Look at your target",
+  "message.glorykill.fail.no_line_of_sight": "No line of sight",
+  "message.glorykill.fail.executor_busy": "You are already executing",
+  "message.glorykill.fail.target_busy": "Someone is already executing that mob",
+  "message.glorykill.fail.no_space": "Not enough room to execute here",
+  "commands.glorykill.no_target": "Look at a living entity within 6 blocks",
+  "commands.glorykill.staggered": "Entity staggered",
+  "message.glorykill.fail.too_large": "That mob is too big to execute",
+  "commands.glorykill.not_executable": "That entity cannot be executed (hostile mobs only, never players)"
+}
